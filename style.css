@@ -1,0 +1,26 @@
+html,body
+{
+  height: 100%;
+}
+.background{
+	background-color:#E9DFE1;
+	height: 100%;
+}
+
+.container{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: white;
+
+}
+
+#game{
+	text-align: center;
+}
+
+#game p{
+	display: inline;
+	}
+#game p a{
+	color: black;
+}
