@@ -3,7 +3,6 @@ Posted by ejonasson on December 6, 2013
 
 This is a test project for Javascript. I wanted to have a good way to generate, eliminate, and move around the DOM, and this was how I chose to go about that.
 
-Check Version 0.1 here
 
 Planned Features
 
